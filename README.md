@@ -1,2 +1,2 @@
-# class21
-bounceoff and istouching
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
